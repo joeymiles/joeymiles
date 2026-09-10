@@ -12,9 +12,9 @@ I spend my evenings shipping small, useful systems — document pipelines, data 
 
 ## What I've built
 
-- **[PSDocling](https://github.com/joeymiles/PSDocling)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSDocling?style=flat&color=gold) — PowerShell + Python Docling document conversion with REST API, processor, and web UI.
-- **[PSNeuron](https://github.com/joeymiles/PSNeuron)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSNeuron?style=flat&color=gold) — Educational feed-forward neural net in PowerShell with a WinForms teaching GUI (walk inputs, weights, loss).
-- **[PSCsvSQLiteORM](https://github.com/joeymiles/PSCsvSQLiteORM)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSCsvSQLiteORM?style=flat&color=gold) — CSV → SQLite mini-ORM for Windows PowerShell 5.1 (catalog, relationships, joins, upserts, migrations).
+- **[PSDocling](https://github.com/joeymiles/PSDocling)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSDocling?style=flat&color=gold&cacheSeconds=3600) — PowerShell + Python Docling document conversion with REST API, processor, and web UI.
+- **[PSNeuron](https://github.com/joeymiles/PSNeuron)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSNeuron?style=flat&color=gold&cacheSeconds=3600) — Educational feed-forward neural net in PowerShell with a WinForms teaching GUI (walk inputs, weights, loss).
+- **[PSCsvSQLiteORM](https://github.com/joeymiles/PSCsvSQLiteORM)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSCsvSQLiteORM?style=flat&color=gold&cacheSeconds=3600) — CSV → SQLite mini-ORM for Windows PowerShell 5.1 (catalog, relationships, joins, upserts, migrations).
 
 ## Connect
 
