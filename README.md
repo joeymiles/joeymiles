@@ -2,10 +2,6 @@
 
 **Builder behind [CeMe Tracker](https://cemetracker.com), [Miles Medical Services](https://milesmedicalservices.com), and [Miles Technology Services](https://milestechnologyservices.com)** — practical PowerShell, automation, and tools you can actually run.
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/joeymiles" alt="Joey's GitHub contribution heatmap" />
-</p>
-
 ## The shift
 
 I spend my evenings shipping small, useful systems — document pipelines, data tools, and teaching demos — instead of waiting on someone else to build them. PowerShell is still my home base; agents help me move faster without losing the craft.
