@@ -1,12 +1,12 @@
 # Hey, I'm Joey 👋
 
-**Builder behind [CeMe Tracker](https://cemetracker.com), [Miles Medical Services](https://milesmedicalservices.com), and [Miles Technology Services](https://milestechnologyservices.com)** — practical PowerShell, automation, and tools you can actually run.
+**Builder of helpful solutions -- practical PowerShell, automation, and tools you can actually run.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PowerShell+%C2%B7+Automation+%C2%B7+Document+tooling;CeMe+Tracker+%C2%B7+Miles+Medical+%C2%B7+Miles+Technology;Build+useful+tools+you+can+actually+run" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PowerShell+%C2%B7+Automation+%C2%B7+Document+tooling;Building+useful+tools+you+can+actually+use" alt="Typing headline" />
 </p>
 
-## The shift
+## Cool stuff
 
 I spend my evenings shipping small, useful systems — document pipelines, data tools, and teaching demos — instead of waiting on someone else to build them. PowerShell is still my home base; agents help me move faster without losing the craft.
 
