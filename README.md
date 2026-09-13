@@ -8,7 +8,7 @@
 
 ## Cool stuff
 
-I spend my evenings shipping small, useful systems — document pipelines, data tools, and teaching demos — instead of waiting on someone else to build them. PowerShell is still my home base; agents help me move faster without losing the craft.
+I spend my free time tinkering and building small, useful systems. PowerShell is still my home base; agents help me move faster.
 
 ## What I've built
 
