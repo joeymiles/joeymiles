@@ -12,7 +12,7 @@ I spend my free time tinkering and building small, useful systems. PowerShell is
 
 ## What I've built
 
-- **[TrafficWatch](https://github.com/joeymiles/TrafficWatch)** ![Stars](https://img.shields.io/github/stars/joeymiles/TrafficWatch?style=flat&color=gold&cacheSeconds=3600) — Local-first 3D globe of this PC’s live TCP/UDP connections — metadata only, no packet capture, no telemetry.
+- **[TrafficWatch](https://github.com/joeymiles/TrafficWatch)** ![Stars](https://img.shields.io/github/stars/joeymiles/TrafficWatch?style=flat&color=gold&cacheSeconds=3600) — Local-first 3D globe of this PC's live TCP/UDP connections — metadata only, no packet capture, no telemetry.
 - **[PSDocling](https://github.com/joeymiles/PSDocling)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSDocling?style=flat&color=gold&cacheSeconds=3600) — PowerShell + Python Docling document conversion with REST API, processor, and web UI.
 - **[PSNeuron](https://github.com/joeymiles/PSNeuron)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSNeuron?style=flat&color=gold&cacheSeconds=3600) — Educational feed-forward neural net in PowerShell with a WinForms teaching GUI (walk inputs, weights, loss).
 - **[PSCsvSQLiteORM](https://github.com/joeymiles/PSCsvSQLiteORM)** ![Stars](https://img.shields.io/github/stars/joeymiles/PSCsvSQLiteORM?style=flat&color=gold&cacheSeconds=3600) — CSV → SQLite mini-ORM for Windows PowerShell 5.1 (catalog, relationships, joins, upserts, migrations).
