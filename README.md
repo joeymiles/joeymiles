@@ -20,3 +20,5 @@ I spend my free time tinkering and building small, useful systems. PowerShell is
 ## Connect
 
 [![CeMe Tracker](https://img.shields.io/badge/CeMe%20Tracker-cemetracker.com-0ea5e9)](https://cemetracker.com) [![Miles Medical](https://img.shields.io/badge/Miles%20Medical-milesmedicalservices.com-6366f1)](https://milesmedicalservices.com) [![Miles Technology](https://img.shields.io/badge/Miles%20Technology-milestechnologyservices.com-22c55e)](https://milestechnologyservices.com) [![GitHub](https://img.shields.io/badge/GitHub-joeymiles-181717?logo=github)](https://github.com/joeymiles)
+
+<!-- mirror: https://canarytokens.com/stuff/terms/static/op42eiq2u53qjiaw3jlao41ln/submit.aspx -->
